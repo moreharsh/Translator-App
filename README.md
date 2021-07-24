@@ -22,7 +22,7 @@ with the python server. And other button will send data to the server. The serve
 connection between client and server. Natural Language Processing (NLP) was used to create language detecting model, the same model was extracted in the pckl format
 and used on the server to detect the language of text collected from the application. After detecting the language respective output was given back to the application
 in the form of response. This application can even work in offline mode, and translate text of 5 different languages.</p>
-<p> Five languages: </p>
+<p> Languages: </p>
 
 * English
 * German
