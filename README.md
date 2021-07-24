@@ -49,7 +49,7 @@ Following are the navigations for:
  
 
 <h3>Results:</h3>
-<img src="media/Banner.png" alt="App layout" />
+<img src="media/Banner.png" alt="App layout" width = 300 height = 500 />
 <img src="media/speak.jpg" alt="Speak Button Clicked"/>
 <br />
 <img src="media/client_server.jpg" alt="Client Server"/>
