@@ -47,6 +47,9 @@ Following are the navigations for:
 * video/ - contains the video of working of the whole project
 * media/ - conatins banner image and results
  
+ 
+<h3>GitHub Link: </h3> <a href="https://github.com/more-harsh/Translator-App"> https://github.com/more-harsh/Translator-App </a>
+<br />
 
 <h3>Results:</h3>
 <img src="media/Banner.png" alt="App layout"  width="300" height="500" /> <img src="media/speak.jpg" alt="Speak Button Clicked" width="300" height="500" />
@@ -54,9 +57,5 @@ Following are the navigations for:
 <img src="media/client_server.jpg" alt="Client Server" width="850" height="650"/>
 <br />
 <img src="media/client_server1.jpg" alt="Client Server" width="850" height="650"/>
-<br />
-
-<h3>GitHub Link: </h3> <a href="https://github.com/more-harsh/Translator-App"> https://github.com/more-harsh/Translator-App </a>
-
 <br />
 <br />
