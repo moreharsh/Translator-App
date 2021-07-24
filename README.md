@@ -30,6 +30,7 @@ in the form of response. This application can even work in offline mode, and tra
 <br />
 <p> Five languages: </p>
 <br />
+
 * English
 * German
 * French
