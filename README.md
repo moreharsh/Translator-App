@@ -6,7 +6,6 @@
 
 <br />
 <h2>Objectives:</h2>  
-<br />
 
 * Take input voice of user
 * Send input for language detection
@@ -18,7 +17,6 @@
 <br />
 
 <h2>Project Overview:</h2>
-<br />
 <p> The android application which will translate text of one language into another. Using Android Studio and Java the android application was built,
 Firebase API called one-device translation used to translate text from one language to other desired language of users choice. Three buttons are present
 at the bottom, where the 'SPEAK' button will take voice as input, the 'TRANSLATE' button is used to translate text into selected language from the given list.
@@ -29,7 +27,6 @@ and used on the server to detect the language of text collected from the applica
 in the form of response. This application can even work in offline mode, and translate text of 5 different languages.</p>
 <br />
 <p> Five languages: </p>
-<br />
 
 * English
 * German
@@ -42,7 +39,7 @@ in the form of response. This application can even work in offline mode, and tra
 
 <h2>Technology Stack:</h2>
 Following is the technology stack for:
-<br />
+
 * App - Java, Android Studio
 * Firebase - One-device translation API
 * Server - Python + Jupyter
