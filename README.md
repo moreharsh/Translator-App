@@ -7,11 +7,13 @@
 <br />
 <h2>Objectives:</h2>  
 <br />
+
 * Take input voice of user
 * Send input for language detection
 * Option menu for language selection
 * Translate the input speech into the selected language
 * Give the output voice of the translated input voice
+
 <br />
 <br />
 
@@ -33,6 +35,7 @@ in the form of response. This application can even work in offline mode, and tra
 * French
 * Marathi
 * Hindi
+
 <br />
 <br />
 
