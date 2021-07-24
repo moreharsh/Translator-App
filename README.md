@@ -4,7 +4,6 @@
 <h2>Aim:</h2>
 <p> To create an app, which can take input as user’s voice and translate it into the desired language, and finally provide translated voice as output. </p>
 
-<br />
 <h2>Objectives:</h2>  
 
 * Take input voice of user
@@ -14,8 +13,6 @@
 * Give the output voice of the translated input voice
 
 <br />
-<br />
-
 <h2>Project Overview:</h2>
 <p> The android application which will translate text of one language into another. Using Android Studio and Java the android application was built,
 Firebase API called one-device translation used to translate text from one language to other desired language of users choice. Three buttons are present
@@ -25,7 +22,6 @@ with the python server. And other button will send data to the server. The serve
 connection between client and server. Natural Language Processing (NLP) was used to create language detecting model, the same model was extracted in the pckl format
 and used on the server to detect the language of text collected from the application. After detecting the language respective output was given back to the application
 in the form of response. This application can even work in offline mode, and translate text of 5 different languages.</p>
-<br />
 <p> Five languages: </p>
 
 * English
@@ -35,8 +31,6 @@ in the form of response. This application can even work in offline mode, and tra
 * Hindi
 
 <br />
-<br />
-
 <h2>Technology Stack:</h2>
 Following is the technology stack for:
 
