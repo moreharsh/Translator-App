@@ -1,4 +1,3 @@
-<img src="media/Banner.png" alt="My cool logo"/>
 <h1>Translator App </h1>
 
 <h2>Aim:</h2>
@@ -50,12 +49,12 @@ Following are the navigations for:
  
 
 <h3>Results:</h3>
-<img src="media/Banner.png" alt="App layout" width="200" height="400" />
-<img src="media/speak.jpg" alt="Speak Button Clicked" width="200" height="400"/>
+<img src="media/Banner.png" alt="App layout" />
+<img src="media/speak.jpg" alt="Speak Button Clicked"/>
 <br />
-<img src="media/client_server.jpg" alt="Client Server" width="500" height="500"/>
+<img src="media/client_server.jpg" alt="Client Server"/>
 <br />
-<img src="media/client_server1.jpg" alt="Client Server" width="500" height="500"/>
+<img src="media/client_server1.jpg" alt="Client Server"/>
 <br />
 
 <h3>GitHub Link: </h3> <a href="https://github.com/more-harsh/Translator-App"> https://github.com/more-harsh/Translator-App </a>
